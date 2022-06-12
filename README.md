@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([url](https://daa7314.github.io/main/insights/EDA%20is%20powerful)) and ![Image](src)
+[Posts]([url](https://daa7314.github.io/main/insights/EDA%20is%20powerful)) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
